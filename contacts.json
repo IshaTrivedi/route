@@ -1,0 +1,86 @@
+
+{
+    "contacts": [
+        {
+            "email": "jonas.sultani@hellyhansen.com",
+            "firstname": "jonas",
+            "lastname": "Sultani",
+            "prefix": "Mr",
+            "title": "Consultant",
+            "company": "Helly Hansen",
+            "phone": "+49 6245 99334",
+            "fax": "+49 6245 99335"
+        },
+        {
+            "email": "james.simmons@boeing.com",
+            "firstname": "james h",
+            "lastname": "Simmons",
+            "prefix": "Mr",
+            "title": "AP Lead",
+            "company": "Boeing",
+            "phone": "+1 112-445-6684",
+			"fax": ""
+        },
+        {
+            "email": "slmarino@boehringer-ingelheim.com",
+            "firstname": "Stephanie",
+            "lastname": "Marino",
+            "prefix": "Mrs",
+            "title": "Project Manager",
+            "company": "Boehringer Ingelheim",
+            "phone": "+1 650-554-5124",
+			"fax": ""
+        },
+        {
+            "email": "srelph@apple.com",
+            "firstname": "simone",
+            "lastname": "Relph",
+            "prefix": "",
+            "title": "",
+            "company": "Apple Inc",
+            "phone": "650 773 9923",
+			"fax": ""
+        },
+        {
+            "email": "brenton.evans@readsoft.com",
+            "firstname": "brenton",
+            "lastname": "Evans",
+            "prefix": "",
+            "title": "SAP Specialist",
+            "company": "ReadSoft Inc",
+            "phone": "678-349-1201",
+			"fax": ""
+        },
+        {
+            "email": "hartmuth.geiger@pfizer.com",
+            "firstname": "hartmuth",
+            "lastname": "Geiger",
+            "prefix": "Dr",
+            "title": "ERP SAP FI Solutions Team",
+            "company": "Pfizer",
+            "phone": "484.397-3964",
+			"fax": ""
+        },
+        {
+            "email": "ed.higgins@pfizer.com",
+            "firstname": "Eddy",
+            "lastname": "Higgins",
+            "prefix": "",
+            "title": "SAP Basis Team",
+            "company": "Pfizer",
+            "phone": "484.397-3977",
+			"fax": ""
+        },
+        {
+            "email": "dave@jobscore.com",
+            "firstname": "David",
+            "lastname": "Arkind",
+            "prefix": "",
+            "title": "CEO",
+            "company": "JobScore",
+            "phone": "415-320-6230",
+			"fax": ""
+        }
+    ]
+}
+
